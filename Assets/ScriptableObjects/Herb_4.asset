@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 066ecdd769e14ab4fa45a9d011e4bb28, type: 3}
+  m_Name: Herb_4
+  m_EditorClassIdentifier: 
+  Name: "\uC2A4\uD2B8\uB9B4\uC758 \uAECD\uC9C8"
+  Description: "\uD45C\uBA74\uC744 \uBC14\uAFB8\uB294 \uD798\uC744 \uAC00\uC9C4 \uC7AC\uB8CC."
+  Index: 3
+  sprite: {fileID: 21300000, guid: 53213787a33285f4dab7b44674be96db, type: 3}

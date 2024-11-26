@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 48ea794cb260e424a9e0b7cd33286533, type: 3}
+  m_Name: Potion_3
+  m_EditorClassIdentifier: 
+  Name: "\uB3C5\uC131 \uC751\uACE0\uC81C"
+  Description: "\uC77C\uC2DC\uC801\uC73C\uB85C \uBAB8\uC5D0 \uB4E4\uC5B4\uC628 \uB3C5\uC774
+    \uD37C\uC9C0\uB294 \uAC83\uC744 \uB9C9\uB294 \uBB3C\uC57D."
+  HiddenName: "\uC751\uAE09 \uD574\uB3C5\uC81C"
+  HiddenDescription: "\uC77C\uC2DC\uC801\uC73C\uB85C \uBAB8 \uC18D\uC5D0 \uC313\uC778
+    \uB098\uC05C \uB3C5\uC18C\uB97C \uBC30\uCD9C\uD574\uC8FC\uB294 \uCE58\uB8CC\uC81C"
+  HerbIndexes: 020000000100000005000000
+  HiddenHerbIndexes: 02000000010000000500000004000000
+  Sprite: {fileID: 21300000, guid: 13abeb9743da5eb40b3114d31a5bc7f7, type: 3}
+  HiddenSprite: {fileID: 21300000, guid: bd0e319a4e920254aba58d86d41362b3, type: 3}
+  Index: 2
